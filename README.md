@@ -1,1 +1,1 @@
-rn-complete-guide
+# The Goal list app
